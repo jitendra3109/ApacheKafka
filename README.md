@@ -12,6 +12,7 @@ Apache Kafka is an open-source stream processing platform developed by the Apach
 
 ## Documentions
 - [Officail Docs: Apache Kafka](https://kafka.apache.org/)
+- [Kafka The Definitive Guide: Neha Narkhede](/Docs/confluent-kafka-definitive-guide-complete.pdf)
 
 ## Vedios
 
