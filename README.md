@@ -25,4 +25,6 @@ Apache Kafka is an open-source stream processing platform developed by the Apach
 - [Developing Real-Time Data Pipelines with Apache Kafka](https://www.youtube.com/watch?v=GRPLRONVDWY)
 
 ### Tutorails
+- [Apache Kafka® Streams API : Confluent](https://www.youtube.com/channel/UCmZz-Gj3caLLzEWBtbYUXaA/playlists)
+- [Apache Kafka Tutorials : Prashant](https://www.youtube.com/playlist?list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON)
 
