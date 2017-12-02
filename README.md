@@ -1,7 +1,9 @@
 # Awesome-ApacheKafka
 
 
-Apache Kafka is an open-source stream processing platform developed by the Apache Software Foundation written in Scala and Java. The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
+Apache Kafka is an open-source stream processing platform developed by the Apache Software Foundation written in Scala and Java. 
+Kafka® is used for building real-time data pipelines and streaming apps. It is horizontally scalable, fault-tolerant, wicked fast, and runs in production in thousands of companies.
+The project aims to provide a reach contents and build a open source community.
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 - [Documentions](#documentions)
@@ -12,6 +14,7 @@ Apache Kafka is an open-source stream processing platform developed by the Apach
 
 ## Documentions
 - [Officail Docs: Apache Kafka](https://kafka.apache.org/)
+- [Confluent Blog](https://www.confluent.io/blog/)
 - [Kafka The Definitive Guide: Neha Narkhede](/Docs/confluent-kafka-definitive-guide-complete.pdf)
 
 ## Vedios
