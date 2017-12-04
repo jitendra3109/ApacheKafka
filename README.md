@@ -16,6 +16,7 @@ The project aims to provide a reach contents and build a open source community.
 - [Officail Docs: Apache Kafka](https://kafka.apache.org/)
 - [Confluent Blog](https://www.confluent.io/blog/)
 - [Kafka The Definitive Guide: Neha Narkhede](/Docs/confluent-kafka-definitive-guide-complete.pdf)
+- [Sample Programs for Apache Kafka : MapR Technologies](https://mapr.com/blog/getting-started-sample-programs-apache-kafka-09/)
 
 ## Vedios
 
